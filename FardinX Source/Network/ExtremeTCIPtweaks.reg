@@ -71,22 +71,6 @@ Windows Registry Editor Version 5.00
 "TcpNumConnections"=dword:00000500
 "TcpWindowSize"=dword:0003ebc0
 
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Mojang]
-
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Mojang\Minecraft]
-"DesktopSC"=dword:00000001
-"DisplayName"="@%appdata%\\.minecraft\\versions\\1.7.10\\1.7.10.jar"
-"GameFluidity"=dword:ffffffff
-"installed"=dword:00000001
-"MSS"=dword:ffffffff
-"MTU"=dword:ffffffff
-"Path"="C:\\Users\\\"ATA\"\\AppData\\Roaming\\.minecraft\\\\"
-"T1"=dword:57b5c2d3
-"T2"=dword:57b6021b
-"TCP"=dword:00000500
-"TcpDelAckTicks"=dword:00000000
-"TcpNoDelay"=dword:00000001
-"Version"="1.7.10"
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
 "AddressType"=dword:00000000
@@ -11029,3 +11013,4 @@ Windows Registry Editor Version 5.00
   5c,00,6d,00,73,00,77,00,73,00,6f,00,63,00,6b,00,2e,00,64,00,6c,00,6c,00,2c,\
   00,2d,00,36,00,30,00,32,00,30,00,32,00,00,00
 "Version"=dword:00000002
+
