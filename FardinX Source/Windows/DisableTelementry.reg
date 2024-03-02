@@ -1,7 +1,7 @@
 ﻿Windows Registry Editor Version 5.00
 
 
-[HKEY_CURRENT_USER\EXLUDE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
+[HKEY_CURRENT_USER\System\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
 "FeatureManagementEnabled"=dword:00000000
 "SlideshowEnabled"=dword:00000000
 "OemPreInstalledAppsEnabled"=dword:00000000
