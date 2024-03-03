@@ -88,4 +88,8 @@ Windows Registry Editor Version 5.00
 "StaleThreshold"=dword:0000001e
 "WebTimeout"=dword:00000023
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator]
+"NoActiveProbe"=dword:00000001
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Connectivity\DisallowNetworkConnectivityActiveTests]
+"value"=dword:00000001
