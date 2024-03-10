@@ -1,5 +1,40 @@
 Windows Registry Editor Version 5.00
 
+
+
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Games]
+"CpuCoresAlways"=dword:00000012
+"CpuMaxPerformance"=dword:00000100
+"CpuSpread"=dword:00000000
+"CpuUtilization"=dword:00000100
+"FpsAll"=dword:00000001
+"FpsStatusGames"=dword:00000010
+"FpsStatusGamesAll"=dword:00000004
+"GameFluidity"=dword:00000001
+"GpuAccelerating"=dword:00000100
+"GpuMax"=dword:00000100
+"GpuMaxPerformance"=dword:00000100
+"GpuPerformance"=dword:00000100
+"GpuRenderingPriority"=dword:00000003
+"GpuSpeed"=dword:00000100
+"LatencyPerformance"=dword:00000100
+"LatencyPriority"=dword:00000003
+"LatencySpread"=dword:00000000
+"MaxPerformance"=dword:00000100
+"MinPerformance"=dword:00000100
+"PerformancePriority"=dword:00000003
+"PerformanceSpread"=dword:00000000
+"RenderingPerformance"=dword:00000100
+"RenderingPriority"=dword:00000003
+"RenderingSpread"=dword:00000000
+"SpreadPriority"=dword:00000001
+
+
+
+
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
 "NetworkThrottlingIndex"=dword:00000000
 "SystemResponsiveness"=dword:00000007
