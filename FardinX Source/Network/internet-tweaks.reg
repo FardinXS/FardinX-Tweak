@@ -1,7 +1,8 @@
 ﻿Windows Registry Editor Version 5.00
 
 
-
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Internet Connection Wizard]
+"ExitOnMSICW"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MAXCONNECTIONSPER1_0SERVER]
 "explorer.exe"=dword:00000002
