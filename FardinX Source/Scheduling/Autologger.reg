@@ -1,5 +1,8 @@
 Windows Registry Editor Version 5.00
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WUDF]
+"LogEnable"=dword:00000000
+"LogLevel"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\WMI\Autologger\AppModel]
 "Start"=dword:00000000
